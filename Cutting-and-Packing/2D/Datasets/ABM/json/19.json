@@ -1,0 +1,1 @@
+{"Name":"ABM19","Objects":[{"Length":30,"Height":22,"Stock":4,"Cost":660},{"Length":30,"Height":24,"Stock":4,"Cost":720},{"Length":10,"Height":21,"Stock":8,"Cost":210}],"Items":[{"Length":9,"Height":7,"Demand":15,"DemandMax":null,"Value":63},{"Length":11,"Height":6,"Demand":11,"DemandMax":null,"Value":66},{"Length":1,"Height":5,"Demand":15,"DemandMax":null,"Value":5}]}

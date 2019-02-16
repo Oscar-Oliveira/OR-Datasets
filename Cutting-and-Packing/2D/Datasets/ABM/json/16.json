@@ -1,0 +1,1 @@
+{"Name":"ABM16","Objects":[{"Length":30,"Height":11,"Stock":6,"Cost":330},{"Length":27,"Height":13,"Stock":6,"Cost":351},{"Length":12,"Height":26,"Stock":7,"Cost":312}],"Items":[{"Length":8,"Height":10,"Demand":10,"DemandMax":null,"Value":80},{"Length":10,"Height":3,"Demand":9,"DemandMax":null,"Value":30},{"Length":11,"Height":2,"Demand":2,"DemandMax":null,"Value":22}]}
