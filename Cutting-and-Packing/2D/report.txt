@@ -1,0 +1,1093 @@
+
+
+Dataset: AA
+Number of instances: 2
+k: 1
+e: None
+c: [30676500, 92029500]
+LxH: [12030, 36090] x 2550
+m: 15
+d: [8, 96] - None
+v: [22200, 1381600]
+lxh: [270, 2500] x [74, 785]
+
+Dataset: AB
+Number of instances: 60
+k: 1
+e: None
+c: [2094081, 4245698]
+LxH: [2003, 2997] x [1014, 1474]
+m: [50, 150]
+d: [1, 50] - None
+v: [914, 171432]
+lxh: [50, 499] x [50, 499]
+
+Dataset: ABM
+Number of instances: 20
+k: [1, 4]
+e: [1, 8]
+c: [130, 30740]
+LxH: [10, 290] x [10, 183]
+m: [1, 37]
+d: [1, 17] - None
+v: [1, 3920]
+lxh: [1, 114] x [1, 59]
+
+Dataset: ABMR
+Number of instances: 10
+k: [2, 3]
+e: [1, 2]
+c: [130, 621]
+LxH: [13, 29] x [10, 30]
+m: [1, 3]
+d: [1, 7] - None
+v: [1, 121]
+lxh: [1, 11] x [1, 11]
+
+Dataset: AH
+Number of instances: 360
+k: 1
+e: None
+c: [1257000, 56390000]
+LxH: 1000 x [1257, 56390]
+m: [10, 1000]
+d: [1, 100] - None
+v: [36, 139500]
+lxh: [6, 375] x [6, 375]
+
+Dataset: ASSORT
+Number of instances: 12
+k: 10
+e: None
+c: [2964, 55596]
+LxH: [50, 248] x [51, 248]
+m: [10, 30]
+d: 20 - [20, 39]
+v: [650, 14756]
+lxh: [25, 124] x [25, 124]
+
+Dataset: ATP1
+Number of instances: 10
+k: 1
+e: None
+c: [3498660, 7577986]
+LxH: [1674, 2899] x [1612, 2994]
+m: [31, 59]
+d: 1 - None
+v: [10605, 949053]
+lxh: [101, 1117] x [81, 1192]
+
+Dataset: ATP2
+Number of instances: 10
+k: 1
+e: None
+c: [3361875, 8116720]
+LxH: [1793, 2885] x [1656, 2858]
+m: [36, 59]
+d: 1 - None
+v: [7963, 576621]
+lxh: [96, 1142] x [82, 1143]
+
+Dataset: ATP3
+Number of instances: 10
+k: 1
+e: None
+c: [38068, 825184]
+LxH: [241, 960] x [124, 983]
+m: [27, 55]
+d: [1, 9] - None
+v: [224, 121600]
+lxh: [15, 363] x [6, 390]
+
+Dataset: ATP4
+Number of instances: 10
+k: 1
+e: None
+c: [48597, 340791]
+LxH: [167, 931] x [138, 917]
+m: [25, 59]
+d: [1, 9] - None
+v: [68, 27446]
+lxh: [8, 355] x [6, 362]
+
+Dataset: B
+Number of instances: 7
+k: 1
+e: None
+c: 8000000
+LxH: 4000 x 2000
+m: [30, 180]
+d: 1 - None
+v: [41607, 476734]
+lxh: [200, 695] x [200, 698]
+
+Dataset: BABU1
+Number of instances: 1
+k: 1
+e: None
+c: 375000
+LxH: 1000 x 375
+m: 14
+d: [1, 14] - None
+v: [1125, 26250]
+lxh: [15, 175] x [50, 150]
+
+Dataset: BABU2
+Number of instances: 1
+k: 5
+e: [2, 10]
+c: [50000, 390000]
+LxH: [100, 600] x [400, 650]
+m: 14
+d: [1, 14] - None
+v: [1125, 26250]
+lxh: [15, 175] x [50, 150]
+
+Dataset: BABU2
+Number of instances: 1
+k: 1
+e: None
+c: 16000
+LxH: 80 x 200
+m: 14
+d: [1, 2] - None
+v: [50, 525]
+lxh: [5, 35] x [5, 35]
+
+Dataset: BENG
+Number of instances: 10
+k: 1
+e: None
+c: [250, 1000]
+LxH: [25, 40] x [10, 25]
+m: [18, 84]
+d: [1, 5] - None
+v: [1, 96]
+lxh: [1, 12] x [1, 8]
+
+Dataset: BKW
+Number of instances: 13
+k: 1
+e: None
+c: [1500, 614400]
+LxH: [30, 640] x [40, 960]
+m: [9, 161]
+d: [1, 108] - None
+v: [1, 2318]
+lxh: [1, 74] x [1, 125]
+
+Dataset: BRPB
+Number of instances: 1
+k: 3
+e: None
+c: [6160, 7599]
+LxH: [130, 149] x [44, 51]
+m: 5
+d: [1, 9] - None
+v: [190, 1218]
+lxh: [19, 45] x [10, 29]
+
+Dataset: CGCUT
+Number of instances: 3
+k: 1
+e: None
+c: [150, 2800]
+LxH: [15, 40] x [10, 70]
+m: [7, 19]
+d: [1, 5] - None
+v: [2, 582]
+lxh: [2, 33] x [1, 43]
+
+Dataset: CH
+Number of instances: 80
+k: 1
+e: None
+c: [2000000, 4197743]
+LxH: [2000, 2986] x [1000, 1498]
+m: [5, 40]
+d: [102, 9993] - None
+v: [250, 994008]
+lxh: [5, 999] x [50, 999]
+
+Dataset: CHL1
+Number of instances: 7
+k: 1
+e: None
+c: [400, 47817]
+LxH: [20, 207] x [20, 231]
+m: [10, 34]
+d: [1, 7] - None
+v: [5, 2583]
+lxh: [1, 69] x [2, 63]
+
+Dataset: CHL2
+Number of instances: 9
+k: 1
+e: None
+c: [980, 63383]
+LxH: [49, 263] x [20, 244]
+m: [10, 40]
+d: [1, 8] - None
+v: [5, 10875]
+lxh: [1, 109] x [2, 135]
+
+Dataset: CJCM
+Number of instances: 42
+k: 1
+e: None
+c: 400
+LxH: 20 x 20
+m: [10, 19]
+d: [1, 4] - None
+v: [2, 168]
+lxh: [1, 20] x [2, 20]
+
+Dataset: CLASS
+Number of instances: 500
+k: 1
+e: None
+c: [100, 90000]
+LxH: [10, 300] x [10, 300]
+m: [18, 100]
+d: [1, 6] - None
+v: [1, 10000]
+lxh: [1, 100] x [1, 100]
+
+Dataset: CMWX
+Number of instances: 4
+k: 1
+e: None
+c: 12250000
+LxH: 3500 x 3500
+m: [42, 82]
+d: 1 - None
+v: [50924, 1081080]
+lxh: [254, 970] x [116, 1890]
+
+Dataset: CUI
+Number of instances: 21
+k: 1
+e: None
+c: [1022085, 12364948]
+LxH: [1017, 4518] x [1005, 4323]
+m: [49, 96]
+d: [3, 15] - None
+v: [653, 1006880]
+lxh: [60, 1342] x [40, 1282]
+
+Dataset: CWL
+Number of instances: 50
+k: 1
+e: None
+c: 4500000
+LxH: 3000 x 1500
+m: 30
+d: 1 - None
+v: [41607, 476734]
+lxh: [200, 699] x [200, 699]
+
+Dataset: CY
+Number of instances: 300
+k: 1
+e: None
+c: [2000000, 4277500]
+LxH: [2000, 2950] x [1000, 1450]
+m: [25, 200]
+d: [1, 30] - None
+v: [1491, 462830]
+lxh: [50, 700] x [50, 700]
+
+Dataset: CZ
+Number of instances: 5
+k: 1
+e: None
+c: [3660000, 12180000]
+LxH: [2000, 4200] x [1830, 2900]
+m: 58
+d: [2, 328] - None
+v: [348864, 1087548]
+lxh: [368, 1749] x [474, 1589]
+
+Dataset: D
+Number of instances: 4
+k: 1
+e: None
+c: None
+LxH: [20, 60] x None
+m: [4, 8]
+d: [2, 9] - None
+v: [20, 144]
+lxh: [4, 15] x [4, 13]
+
+Dataset: DOWSLAND
+Number of instances: 8
+k: 1
+e: None
+c: [352, 7052]
+LxH: [22, 86] x [16, 82]
+m: 1
+d: 1 - None
+v: [15, 165]
+lxh: [5, 15] x [3, 11]
+
+Dataset: EL-AAL
+Number of instances: 2
+k: 1
+e: None
+c: [200, 2000000]
+LxH: [20, 2000] x [10, 1000]
+m: [4, 10]
+d: [1, 300] - None
+v: [8, 517290]
+lxh: [4, 1000] x [2, 645]
+
+Dataset: EP2
+Number of instances: 80
+k: 1
+e: None
+c: [2145, 1092981]
+LxH: [33, 739] x [65, 1479]
+m: [19, 199]
+d: [1, 20] - None
+v: [1, 30000]
+lxh: [1, 100] x [1, 100]
+
+Dataset: FHZ1
+Number of instances: 11
+k: 1
+e: None
+c: [12500, 931081]
+LxH: [100, 977] x [125, 985]
+m: [25, 50]
+d: [1, 9] - None
+v: [891, 211090]
+lxh: [20, 527] x [25, 576]
+
+Dataset: FHZ2
+Number of instances: 11
+k: 1
+e: None
+c: [13125, 962240]
+LxH: [125, 992] x [105, 970]
+m: [25, 60]
+d: [1, 12] - None
+v: [140, 999]
+lxh: [25, 636] x [21, 623]
+
+Dataset: FHZ3
+Number of instances: 11
+k: 1
+e: None
+c: [250000, 13177500]
+LxH: [500, 3500] x [500, 3765]
+m: [25, 60]
+d: 1 - None
+v: [22008, 4683654]
+lxh: [37, 2254] x [101, 2226]
+
+Dataset: FHZ4
+Number of instances: 11
+k: 1
+e: None
+c: [250000, 12775000]
+LxH: [500, 3500] x [500, 3650]
+m: [25, 60]
+d: 1 - None
+v: [110, 748]
+lxh: [96, 2245] x [98, 2354]
+
+Dataset: FO
+Number of instances: 1
+k: 1
+e: None
+c: 81
+LxH: 9 x 9
+m: 5
+d: 1 - None
+v: [8, 25]
+lxh: [2, 5] x [4, 5]
+
+Dataset: GARD
+Number of instances: 40
+k: 0
+e: None
+c: None
+LxH: None x None
+m: [1, 40]
+d: 1 - None
+v: [1, 1600]
+lxh: [1, 40] x [1, 40]
+
+Dataset: GCUT
+Number of instances: 13
+k: 1
+e: None
+c: [62500, 9000000]
+LxH: [250, 3000] x [250, 3000]
+m: [10, 50]
+d: 1 - None
+v: [4554, 1081080]
+lxh: [62, 970] x [63, 1890]
+
+Dataset: HADCHR
+Number of instances: 2
+k: 1
+e: None
+c: 900
+LxH: 30 x 30
+m: [7, 15]
+d: 1 - None
+v: [17, 828]
+lxh: [1, 22] x [4, 21]
+
+Dataset: HERZ
+Number of instances: 1
+k: 1
+e: None
+c: 12446
+LxH: 127 x 98
+m: 5
+d: 1 - None
+v: [273, 1170]
+lxh: [18, 54] x [13, 65]
+
+Dataset: HIFI1997a1
+Number of instances: 3
+k: 1
+e: None
+c: [20553500, 48355650]
+LxH: [4500, 7350] x [4070, 6579]
+m: [10, 20]
+d: 1 - None
+v: [220884, 5500460]
+lxh: [232, 2828] x [347, 2647]
+
+Dataset: HIFI1997a2
+Number of instances: 3
+k: 1
+e: None
+c: [9489363, 55357500]
+LxH: [3427, 7500] x [2769, 7381]
+m: [20, 40]
+d: 1 - None
+v: [398, 4351]
+lxh: [437, 5751] x [316, 3787]
+
+Dataset: HIFI1997b1
+Number of instances: 3
+k: 1
+e: None
+c: [3000, 5600]
+LxH: [50, 70] x [60, 80]
+m: [19, 20]
+d: [1, 4] - None
+v: [140, 1333]
+lxh: [9, 35] x [11, 43]
+
+Dataset: HIFI1997b2
+Number of instances: 3
+k: 1
+e: None
+c: [6300, 13200]
+LxH: [90, 132] x [70, 100]
+m: [5, 20]
+d: [1, 6] - None
+v: [153, 2214]
+lxh: [9, 69] x [11, 65]
+
+Dataset: HIFI20011
+Number of instances: 5
+k: 1
+e: None
+c: [48355650, 1627762971]
+LxH: [7350, 45237] x [6579, 35983]
+m: [40, 200]
+d: [1, 2] - None
+v: [2240, 79389148]
+lxh: [28, 9098] x [80, 8726]
+
+Dataset: HIFI20012
+Number of instances: 11
+k: 1
+e: None
+c: [15600, 1627762971]
+LxH: [100, 45237] x [156, 35983]
+m: [10, 200]
+d: 1 - None
+v: [152, 15877830]
+lxh: [16, 9098] x [32, 8726]
+
+Dataset: HOPPER
+Number of instances: 70
+k: 1
+e: None
+c: 40000
+LxH: 200 x 200
+m: [17, 172]
+d: [1, 5] - None
+v: [1, 10578]
+lxh: [1, 178] x [1, 180]
+
+Dataset: HT2001a
+Number of instances: 21
+k: 1
+e: None
+c: [400, 38400]
+LxH: [20, 160] x [15, 240]
+m: [14, 170]
+d: [1, 6] - None
+v: [1, 2392]
+lxh: [1, 72] x [1, 113]
+
+Dataset: HT2001b
+Number of instances: 15
+k: 6
+e: [2, 4]
+c: [100, 6000]
+LxH: [10, 60] x [10, 120]
+m: [53, 68]
+d: [1, 8] - None
+v: [1, 900]
+lxh: [1, 30] x [1, 30]
+
+Dataset: HZ1
+Number of instances: 1
+k: 1
+e: None
+c: 5226
+LxH: 78 x 67
+m: 6
+d: 1 - None
+v: [45, 1728]
+lxh: [6, 32] x [5, 54]
+
+Dataset: HZ2
+Number of instances: 1
+k: 1
+e: None
+c: 7920
+LxH: 99 x 80
+m: 5
+d: 1 - None
+v: [273, 1083]
+lxh: [18, 54] x [13, 35]
+
+Dataset: IS
+Number of instances: 2
+k: 1
+e: None
+c: 2800
+LxH: 70 x 40
+m: 20
+d: [1, 25] - None
+v: [1, 56]
+lxh: [1, 14] x [1, 6]
+
+Dataset: iYUAI
+Number of instances: 60
+k: 1
+e: None
+c: [980000, 8000000]
+LxH: [1400, 4000] x [700, 2000]
+m: [20, 50]
+d: [1, 200] - None
+v: [12324, 463372]
+lxh: [141, 996] x [70, 500]
+
+Dataset: Jakobs
+Number of instances: 7
+k: 1
+e: None
+c: [600, 5600]
+LxH: [40, 120] x [15, 80]
+m: [14, 20]
+d: [1, 7] - None
+v: [4, 648]
+lxh: [2, 40] x [2, 36]
+
+Dataset: JLSL
+Number of instances: 5
+k: 1
+e: None
+c: [800, 8000]
+LxH: [40, 100] x [20, 80]
+m: [5, 18]
+d: [1, 5] - None
+v: [27, 1200]
+lxh: [3, 30] x [3, 50]
+
+Dataset: KORF
+Number of instances: 40
+k: 0
+e: None
+c: None
+LxH: None x None
+m: [1, 40]
+d: 1 - None
+v: [2, 1640]
+lxh: [1, 40] x [2, 41]
+
+Dataset: KR
+Number of instances: 12
+k: 1
+e: None
+c: [10200, 28000]
+LxH: 100 x [102, 280]
+m: [25, 60]
+d: [1, 2] - None
+v: [1, 1600]
+lxh: [1, 40] x [1, 40]
+
+Dataset: LC1
+Number of instances: 3
+k: 1
+e: None
+c: [80000, 160000]
+LxH: 400 x [200, 400]
+m: [5, 9]
+d: [1, 5] - None
+v: [2700, 20000]
+lxh: [30, 200] x [30, 150]
+
+Dataset: LC2
+Number of instances: 5
+k: 1
+e: None
+c: 4243125
+LxH: 2325 x 1825
+m: [3, 9]
+d: [1, 6] - None
+v: [40000, 1320000]
+lxh: [200, 1350] x [200, 1100]
+
+Dataset: LCT
+Number of instances: 2
+k: 1
+e: None
+c: [16500, 19200]
+LxH: [150, 160] x [110, 120]
+m: [39, 49]
+d: [1, 2] - None
+v: [56, 1064]
+lxh: [6, 48] x [4, 40]
+
+Dataset: LYT
+Number of instances: 1
+k: 1
+e: None
+c: 60000
+LxH: 300 x 200
+m: 5
+d: 1 - None
+v: [5000, 20000]
+lxh: [100, 200] x [50, 120]
+
+Dataset: MA1
+Number of instances: 1
+k: 5
+e: [391, 3452]
+c: [33550, 57747]
+LxH: [1220, 2130] x [2100, 3050]
+m: 25
+d: [368, 7308] - None
+v: [145678, 967020]
+lxh: [205, 680] x [431, 2130]
+
+Dataset: MA2
+Number of instances: 1
+k: 1
+e: None
+c: 6789500
+LxH: 1850 x 3670
+m: 14
+d: [90, 5040] - None
+v: [93960, 489000]
+lxh: [250, 361] x [348, 1956]
+
+Dataset: MAA
+Number of instances: 5
+k: 1
+e: None
+c: [15600, 604500]
+LxH: [100, 750] x [156, 806]
+m: 10
+d: 1 - None
+v: [800, 179780]
+lxh: [16, 445] x [32, 449]
+
+Dataset: MB
+Number of instances: 500
+k: [3, 5]
+e: None
+c: [10, 90000]
+LxH: [5, 300] x [5, 300]
+m: [18, 100]
+d: [1, 6] - None
+v: [1, 10000]
+lxh: [1, 100] x [1, 100]
+
+Dataset: MB2D
+Number of instances: 900
+k: 1
+e: None
+c: [20200, 136771]
+LxH: [404, 587] x [50, 233]
+m: [3, 663]
+d: [1, 1487] - None
+v: [120, 2950]
+lxh: [12, 60] x [10, 50]
+
+Dataset: MG1
+Number of instances: 1
+k: 1
+e: None
+c: 2500
+LxH: 50 x 50
+m: 10
+d: 1 - None
+v: [70, 506]
+lxh: [5, 22] x [13, 23]
+
+Dataset: MG2
+Number of instances: 1
+k: 1
+e: None
+c: 10394400
+LxH: 4880 x 2130
+m: 29
+d: [200, 20000] - None
+v: [535050, 3004926]
+lxh: [870, 2451] x [615, 1232]
+
+Dataset: MP
+Number of instances: 450
+k: 1
+e: None
+c: 10000
+LxH: 100 x 100
+m: [8, 50]
+d: [1, 85] - None
+v: [100, 5476]
+lxh: [10, 74] x [10, 74]
+
+Dataset: MWV
+Number of instances: 480
+k: 1
+e: None
+c: None
+LxH: None x None
+m: [24, 5000]
+d: None - None
+v: None
+lxh: None x None
+
+Dataset: NGCUT
+Number of instances: 12
+k: 1
+e: None
+c: [100, 900]
+LxH: [10, 30] x [10, 30]
+m: [5, 10]
+d: [1, 3] - [4, 507]
+v: [3, 243]
+lxh: [1, 30] x [1, 30]
+
+Dataset: NGCUTAP
+Number of instances: 21
+k: 1
+e: None
+c: [100, 10000]
+LxH: [10, 100] x [10, 100]
+m: [5, 33]
+d: 0 - [1, 5]
+v: [4, 6668]
+lxh: [1, 100] x [1, 99]
+
+Dataset: NGCUTCON
+Number of instances: 21
+k: 1
+e: None
+c: [100, 10000]
+LxH: [10, 100] x [10, 100]
+m: [5, 33]
+d: [0, 1] - [1, 5]
+v: [4, 6668]
+lxh: [1, 100] x [1, 99]
+
+Dataset: NGCUTFS
+Number of instances: 630
+k: 1
+e: None
+c: 10000
+LxH: 100 x 100
+m: [39, 987]
+d: 0 - [1, 12]
+v: [4, 30000]
+lxh: [2, 100] x [2, 100]
+
+Dataset: NHU
+Number of instances: 1
+k: 1
+e: None
+c: 875
+LxH: 35 x 25
+m: 10
+d: [5, 125] - None
+v: [14, 525]
+lxh: [2, 18] x [2, 35]
+
+Dataset: OF
+Number of instances: 2
+k: 1
+e: None
+c: 2800
+LxH: 70 x 40
+m: 10
+d: [1, 4] - None
+v: [64, 576]
+lxh: [9, 55] x [4, 39]
+
+Dataset: OKP
+Number of instances: 5
+k: 1
+e: None
+c: 10000
+LxH: 100 x 100
+m: [15, 33]
+d: [1, 5] - None
+v: [12, 6668]
+lxh: [1, 100] x [1, 99]
+
+Dataset: ONV
+Number of instances: 340
+k: [1, 6]
+e: [1, 9]
+c: [46025, 769000]
+LxH: [165, 1000] x [153, 1000]
+m: [24, 443]
+d: [1, 92] - None
+v: [1, 211640]
+lxh: [1, 500] x [1, 500]
+
+Dataset: PGD
+Number of instances: 8
+k: 1
+e: None
+c: [32, 2800]
+LxH: [8, 70] x [4, 50]
+m: [4, 19]
+d: [1, 5] - None
+v: [2, 1333]
+lxh: [1, 55] x [1, 39]
+
+Dataset: PO
+Number of instances: 7
+k: 1
+e: None
+c: 240000
+LxH: 400 x 600
+m: [48, 772]
+d: [1, 3427] - None
+v: [1, 123670]
+lxh: [1, 298] x [1, 415]
+
+Dataset: RAND
+Number of instances: 400
+k: 0
+e: None
+c: None
+LxH: None x None
+m: [3, 20]
+d: [1, 5] - None
+v: [100, 36100]
+lxh: [10, 190] x [10, 190]
+
+Dataset: RSS
+Number of instances: 7
+k: 1
+e: None
+c: [492304309, 1627762971]
+LxH: [20789, 45237] x [23681, 35983]
+m: [100, 550]
+d: [1, 6] - None
+v: [448, 79389148]
+lxh: [28, 9100] x [80, 8726]
+
+Dataset: SCP
+Number of instances: 25
+k: 1
+e: None
+c: [65, 7070]
+LxH: [13, 145] x [4, 100]
+m: [4, 14]
+d: [1, 5] - None
+v: [2, 1377]
+lxh: [1, 55] x [1, 51]
+
+Dataset: SCPL
+Number of instances: 9
+k: 1
+e: None
+c: None
+LxH: None x [127, 657]
+m: [19, 40]
+d: [1, 14] - None
+v: [6, 1936]
+lxh: [2, 121] x [2, 48]
+
+Dataset: SPIEKSMA
+Number of instances: 400
+k: 1
+e: None
+c: [10000, 1000000]
+LxH: [100, 1000] x [100, 1000]
+m: [24, 200]
+d: [1, 4] - None
+v: [51, 947102]
+lxh: [2, 999] x [2, 999]
+
+Dataset: SS
+Number of instances: 1
+k: 2
+e: None
+c: [4608, 6480]
+LxH: [48, 60] x [96, 108]
+m: 5
+d: [100, 180] - None
+v: [216, 840]
+lxh: [12, 28] x [18, 30]
+
+Dataset: SSOOYKI
+Number of instances: 7
+k: 1
+e: None
+c: None
+LxH: None x [200, 250]
+m: [7, 19]
+d: [100, 9000] - None
+v: [225, 10000]
+lxh: [15, 100] x [15, 100]
+
+Dataset: STS
+Number of instances: 4
+k: 1
+e: None
+c: [2800, 9801]
+LxH: [40, 99] x [70, 99]
+m: [10, 30]
+d: [1, 5] - None
+v: [90, 1877]
+lxh: [9, 44] x [7, 49]
+
+Dataset: TEST
+Number of instances: 2
+k: [2, 5]
+e: None
+c: None
+LxH: None x None
+m: [25, 30]
+d: None - None
+v: None
+lxh: None x None
+
+Dataset: VAG
+Number of instances: 1
+k: 1
+e: None
+c: 10000
+LxH: 100 x 100
+m: 5
+d: [3, 8] - None
+v: [462, 1720]
+lxh: [15, 40] x [14, 44]
+
+Dataset: VASSILIADIS
+Number of instances: 2
+k: 1
+e: None
+c: None
+LxH: None x 200
+m: 7
+d: [1, 18] - None
+v: [200, 1030]
+lxh: [5, 103] x [5, 50]
+
+Dataset: VENKATESWARLU
+Number of instances: 1
+k: 31
+e: [32, 232]
+c: [7250, 14820]
+LxH: [250, 290] x [29, 52]
+m: 228
+d: 1 - None
+v: [111, 1596]
+lxh: [3, 21] x [37, 76]
+
+Dataset: WANG1
+Number of instances: 3
+k: 1
+e: None
+c: None
+LxH: None x None
+m: 19
+d: None - None
+v: None
+lxh: None x None
+
+Dataset: WANG2
+Number of instances: 2
+k: [2, 3]
+e: None
+c: None
+LxH: None x None
+m: [5, 10]
+d: None - None
+v: None
+lxh: None x None
+
+Dataset: WV
+Number of instances: 20
+k: 1
+e: None
+c: None
+LxH: None x None
+m: [10, 5000]
+d: None - None
+v: None
+lxh: None x None
+
+Dataset: WVINT
+Number of instances: 72
+k: 1
+e: None
+c: [995000, 1004000]
+LxH: 1000 x [995, 1004]
+m: [25, 1355]
+d: [1, 107] - None
+v: [51, 209500]
+lxh: [1, 1000] x [1, 808]
+
+Dataset: WWD
+Number of instances: 1
+k: 1
+e: None
+c: 300
+LxH: 20 x 15
+m: 4
+d: [1, 2] - None
+v: [28, 75]
+lxh: [7, 15] x [4, 7]
+
+Dataset: ZDF
+Number of instances: 16
+k: 1
+e: None
+c: None
+LxH: [100, 9000] x None
+m: [71, 822]
+d: [1, 17135] - None
+v: [1, 1081080]
+lxh: [1, 1890] x [1, 970]
+
+Datasets: 99
+Number of instances: 6386
