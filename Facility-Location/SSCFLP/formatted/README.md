@@ -23,7 +23,7 @@ Conversion not tested yet.
 
 ## format
 
-- #facilities I #customers J
+- #facilities () #customers (J)
 - row with facilities capacity (I columns)
 - row with facilities opening cost (I columns)
 - row with customers demand (J columns)
