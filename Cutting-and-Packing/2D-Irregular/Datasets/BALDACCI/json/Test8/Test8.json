@@ -7,7 +7,8 @@
       "Dxf": "dxf/i_0.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             144.0
@@ -54,7 +55,8 @@
       "BaseQuality": 1,
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             36.0,
             216.0
@@ -104,7 +106,8 @@
       "Dxf": "dxf/i_2.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             36.0,
             432.0
@@ -152,7 +155,8 @@
         {
           "Quality": 0,
           "Shape": {
-            "Outer": [
+            "Type": "SimplePolygon",
+            "Data": [
               [
                 40.0,
                 30.0
@@ -178,7 +182,8 @@
         }
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             270.0
@@ -208,7 +213,8 @@
       "Dxf": "dxf/i_4.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -239,7 +245,8 @@
       "BaseQuality": 2,
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             576.0
@@ -281,7 +288,8 @@
       "Dxf": "dxf/i_6.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             54.0
@@ -315,7 +323,8 @@
       "Dxf": "dxf/i_7.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             18.0,
             0.0
@@ -369,7 +378,8 @@
       "Dxf": "dxf/i_8.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             36.0
@@ -399,7 +409,8 @@
       "Dxf": "dxf/i_9.dxf",
       "Zones": [],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -429,7 +440,8 @@
         {
           "Quality": 2,
           "Shape": {
-            "Outer": [
+            "Type": "SimplePolygon",
+            "Data": [
               [
                 744.0,
                 558.0
@@ -456,7 +468,8 @@
         {
           "Quality": 1,
           "Shape": {
-            "Outer": [
+            "Type": "SimplePolygon",
+            "Data": [
               [
                 558.0,
                 372.0
@@ -486,7 +499,8 @@
         }
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             186.0,
             0.0
@@ -590,7 +604,8 @@
         {
           "Quality": 2,
           "Shape": {
-            "Outer": [
+            "Type": "SimplePolygon",
+            "Data": [
               [
                 744.0,
                 558.0
@@ -617,7 +632,8 @@
         {
           "Quality": 1,
           "Shape": {
-            "Outer": [
+            "Type": "SimplePolygon",
+            "Data": [
               [
                 558.0,
                 372.0
@@ -647,7 +663,8 @@
         }
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             186.0,
             0.0

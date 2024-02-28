@@ -10,7 +10,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -155,7 +156,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -236,7 +238,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             -159.0,
             -185.0
@@ -353,7 +356,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -434,7 +438,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -527,7 +532,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             -7.222222
@@ -636,7 +642,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             0.0,
             0.0
@@ -761,7 +768,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             -76.0,
             -85.0
@@ -838,7 +846,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             -135.873563,
             -80.448276
@@ -895,7 +904,8 @@
         180.0
       ],
       "Shape": {
-        "Outer": [
+        "Type": "SimplePolygon",
+        "Data": [
           [
             -175.388889,
             -72.479532
