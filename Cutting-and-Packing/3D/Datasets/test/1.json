@@ -1,0 +1,58 @@
+{
+    "Name": "1",
+    "Objects": [{
+        "Length": 10,
+        "Depth": 20,
+        "Height": 10
+    }],
+    "Items": [{
+        "Depth": 5,
+        "Height": 5,
+        "Length": 5,
+        "Demand": 1
+    },{
+        "Depth": 10,
+        "Height": 2,
+        "Length": 5,
+        "Demand": 1
+    }
+
+    ,{
+        "Depth": 7,
+        "Height": 3,
+        "Length": 2,
+        "Demand": 1
+    },{
+        "Depth": 15,
+        "Height": 6,
+        "Length": 3,
+        "Demand": 1
+    },{
+        "Depth": 5,
+        "Height": 1,
+        "Length": 5,
+        "Demand": 1
+    },{
+        "Depth": 11,
+        "Height": 9,
+        "Length": 2,
+        "Demand": 1
+    },{
+        "Depth": 2,
+        "Height": 2,
+        "Length": 2,
+        "Demand": 1
+    },{
+        "Depth": 7,
+        "Height": 5,
+        "Length": 5,
+        "Demand": 1
+    }
+    ,{
+        "Depth": 19,
+        "Height": 9,
+        "Length": 9,
+        "Demand": 1
+    }
+    ]
+}
